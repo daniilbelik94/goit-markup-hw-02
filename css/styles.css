@@ -40,11 +40,12 @@ ul {
 address {
   font-style: normal;
 }
+
 .address_block {
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .address_block :hover {
   color: #404bbf;
@@ -54,7 +55,7 @@ address {
 }
 
 /* section */
-.section_1 {
+.section_i {
   background-color: #2e2f42;
 }
 
@@ -95,7 +96,7 @@ h1.section__title {
   color: #2e2f42;
 }
 
-p .content_text {
+p.content_text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
