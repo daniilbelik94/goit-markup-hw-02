@@ -54,11 +54,11 @@ address {
 }
 
 /* section */
- h1 .section_1 {
+.section_1 {
   background-color: #2e2f42;
 }
 
-.section__title {
+h1.section__title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
