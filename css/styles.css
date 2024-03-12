@@ -33,9 +33,10 @@ body {
 .nav-link:focus {
   color: #404bbf;
 }
-
-.address_block {
+address {
   font-style: normal;
+}
+.address_block {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
