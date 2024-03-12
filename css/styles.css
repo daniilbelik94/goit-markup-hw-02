@@ -110,20 +110,11 @@ p.content_text {
   background-color: #f4f4fd;
 }
 
-h3.header_title {
-  font-weight: 500;
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
 .list {
   background-color: #ffffff;
 }
 
-p.list-paragraph {
+p .list-paragraph {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
